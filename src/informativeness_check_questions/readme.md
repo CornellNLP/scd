@@ -1,0 +1,3 @@
+### Generating informativeness check question
+
+We use `questiongen.py` to generate basic informativeness questions as discussed in the paper. To cover as many conversations as possible, each of our question involves 3 distinct conversations and none of them are repeated across the questions generated. Please see the relevant section of our paper for implementation details. Make sure to double-check the generated questions manually to avoid trivially easy questions. 
